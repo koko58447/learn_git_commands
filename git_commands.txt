@@ -1,3 +1,9 @@
+how to install github
+
+1.create git accound in https://github.com/
+2.install git to window (Download git from https://git-scm.com/)
+
+
 create push(new file)
 ======================
 git init
